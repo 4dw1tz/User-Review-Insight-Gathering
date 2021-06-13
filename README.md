@@ -3,7 +3,7 @@ This repo contains a Python script that will go through the user reviews from an
 
 METADATA
 The dataset is a comma separated document but imported to python as a text file.
-Each line is a separate review
+Each line is a separate review.
     Within each line there will be 2 values separated by a comma.
-    The 1st value is the name of the app
-    The 2nd value is the actual review
+    The 1st value is the name of the app.
+    The 2nd value is the actual review.
